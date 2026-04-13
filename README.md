@@ -81,19 +81,6 @@ HKLM\SOFTWARE\Microsoft\WBEM
 
 ---
 
-## 📸 Screenshots
-
-### Ransom Note
-![Ransom Note](screenshots/ransom_note.jpg)
-
-### Encrypted Files
-![Encrypted Files](screenshots/encrypted_files.jpg)
-
-### Procmon Activity
-![Procmon](screenshots/procmon.jpg)
-
----
-
 ## 🛡️ Mitigation Strategies
 - Use Endpoint Detection & Response (EDR)
 - Maintain regular backups
